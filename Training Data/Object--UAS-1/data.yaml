@@ -1,0 +1,16 @@
+names:
+- alat_rumah_tangga
+- alat_tulis
+- animal
+- fruit
+- kendaraan
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: object-uas
+  url: https://universe.roboflow.com/machinelearningusdbryan/object-uas/dataset/1
+  version: 1
+  workspace: machinelearningusdbryan
+test: ../test/images
+train: Object--UAS-1/train/images
+val: Object--UAS-1/valid/images
